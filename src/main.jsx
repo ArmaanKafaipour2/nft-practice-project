@@ -1,5 +1,3 @@
-//test commit 1
-//test commit 2
 import React from "react";
 import ReactDOM from "react-dom";
 import "./styles/index.css";
